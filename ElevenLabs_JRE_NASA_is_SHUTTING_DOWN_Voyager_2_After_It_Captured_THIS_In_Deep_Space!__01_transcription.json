@@ -1,0 +1,3790 @@
+{
+  "text": " Are you ready to hear the big secret NASA is hiding about Voyager 2? In a shocking twist, the legendary space probe has picked up something so extraordinary that it might force NASA's hand. Even Joe Rogan is talking about it, asking why they'd completely shut down such a vital mission. Is it an alien signal, a cosmic hazard, or something even stranger? Get ready to explore the bizarre truth behind Voyager 2's final days before NASA pulls the plug. Early vision and launch circumstances. Voyager 2 is one of humanity's most remarkable space probes, representing an era when curiosity about distant worlds drove daring missions beyond the boundaries of conventional knowledge. Launched on August 20, 1977, this automated envoy predates its twin, Voyager 1, by a few weeks. Though Voyager 1 travels on a faster trajectory, engineers at NASA's Jet Propulsion Laboratory in Pasadena, California, aimed to explore the outer reaches of the solar system and uncover secrets of giant planets that were mostly unknown at the time. In those days, the space age was still young and confidence in untested technology was mixed with intense optimism. The mission was set in motion because of an unusual planetary alignment that would appear only once every 176 years. This alignment led a spacecraft gained speed through gravity assists, using the pull of each massive planet it passed. By harnessing these assists, flight times to the outer solar system could be drastically shortened. When Voyager 2 was under development, there was tremendous enthusiasm about the chance to visit multiple outer planets in one sweep. Planners recognized that missing this alignment meant losing an opportunity that would not return for generations. Intriguingly, although Voyager 2 launched first, it was labelled 2 because it evolved from a general plan for 2 Pro, one that would eventually be on a shorter path, creating the possibility for a quicker arrival at Jupiter and Saturn. Yet once the flight profiles were set, it turned out Voyager 2 would take a slightly longer route in order to make sure it could swing past Uranus and Neptune later. This complexity underscores the thorough planning that NASA teams did to maximize each spacecraft's potential while balancing the intricate math of orbital mechanics. From its initial concept, NASA engineers expected Voyager 2 to function for only four years, with the main emphasis on exploring Jupiter and Saturn. Its design was built around instruments capable of studying magnetic fields, plasma waves, cosmic rays and more. However, no one could have predicted that this spacecraft's journey would keep fascinating people all over the world more than four decades after its launch.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.84,
+      "text": " Are you ready to hear the big secret NASA is hiding about Voyager 2?",
+      "tokens": [
+        50363,
+        4231,
+        345,
+        3492,
+        284,
+        3285,
+        262,
+        1263,
+        3200,
+        8884,
+        318,
+        11816,
+        546,
+        34124,
+        362,
+        30,
+        50567
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12211782687178283,
+      "compression_ratio": 1.5551724137931036,
+      "no_speech_prob": 0.043639399111270905,
+      "words": [
+        {
+          "word": " Are",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.9079745411872864
+        },
+        {
+          "word": " you",
+          "start": 0.18,
+          "end": 0.28,
+          "probability": 0.995806097984314
+        },
+        {
+          "word": " ready",
+          "start": 0.28,
+          "end": 0.46,
+          "probability": 0.9980025887489319
+        },
+        {
+          "word": " to",
+          "start": 0.46,
+          "end": 0.62,
+          "probability": 0.9979077577590942
+        },
+        {
+          "word": " hear",
+          "start": 0.62,
+          "end": 0.82,
+          "probability": 0.9976194500923157
+        },
+        {
+          "word": " the",
+          "start": 0.82,
+          "end": 0.98,
+          "probability": 0.9189741015434265
+        },
+        {
+          "word": " big",
+          "start": 0.98,
+          "end": 1.14,
+          "probability": 0.9641755819320679
+        },
+        {
+          "word": " secret",
+          "start": 1.14,
+          "end": 1.56,
+          "probability": 0.9714623093605042
+        },
+        {
+          "word": " NASA",
+          "start": 1.56,
+          "end": 1.8,
+          "probability": 0.8142542839050293
+        },
+        {
+          "word": " is",
+          "start": 1.8,
+          "end": 2.12,
+          "probability": 0.9973098039627075
+        },
+        {
+          "word": " hiding",
+          "start": 2.12,
+          "end": 2.42,
+          "probability": 0.9967989921569824
+        },
+        {
+          "word": " about",
+          "start": 2.42,
+          "end": 3.1,
+          "probability": 0.8822874426841736
+        },
+        {
+          "word": " Voyager",
+          "start": 3.1,
+          "end": 3.32,
+          "probability": 0.9956715106964111
+        },
+        {
+          "word": " 2?",
+          "start": 3.32,
+          "end": 3.84,
+          "probability": 0.9313912391662598
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.18,
+      "end": 8.78,
+      "text": " In a shocking twist, the legendary space probe has picked up something so extraordinary",
+      "tokens": [
+        50567,
+        554,
+        257,
+        14702,
+        14528,
+        11,
+        262,
+        13273,
+        2272,
+        12774,
+        468,
+        6497,
+        510,
+        1223,
+        523,
+        11359,
+        50825
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12211782687178283,
+      "compression_ratio": 1.5551724137931036,
+      "no_speech_prob": 0.043639399111270905,
+      "words": [
+        {
+          "word": " In",
+          "start": 4.18,
+          "end": 4.24,
+          "probability": 0.9849587678909302
+        },
+        {
+          "word": " a",
+          "start": 4.24,
+          "end": 4.3,
+          "probability": 0.9950435161590576
+        },
+        {
+          "word": " shocking",
+          "start": 4.3,
+          "end": 4.54,
+          "probability": 0.9970576763153076
+        },
+        {
+          "word": " twist,",
+          "start": 4.54,
+          "end": 5.0,
+          "probability": 0.9985759258270264
+        },
+        {
+          "word": " the",
+          "start": 5.4,
+          "end": 5.46,
+          "probability": 0.9655705094337463
+        },
+        {
+          "word": " legendary",
+          "start": 5.46,
+          "end": 5.74,
+          "probability": 0.8886937499046326
+        },
+        {
+          "word": " space",
+          "start": 5.74,
+          "end": 6.2,
+          "probability": 0.9401540160179138
+        },
+        {
+          "word": " probe",
+          "start": 6.2,
+          "end": 6.58,
+          "probability": 0.9950280785560608
+        },
+        {
+          "word": " has",
+          "start": 6.58,
+          "end": 7.08,
+          "probability": 0.9952240586280823
+        },
+        {
+          "word": " picked",
+          "start": 7.08,
+          "end": 7.28,
+          "probability": 0.997837483882904
+        },
+        {
+          "word": " up",
+          "start": 7.28,
+          "end": 7.5,
+          "probability": 0.9899995923042297
+        },
+        {
+          "word": " something",
+          "start": 7.5,
+          "end": 7.86,
+          "probability": 0.9984637498855591
+        },
+        {
+          "word": " so",
+          "start": 7.86,
+          "end": 8.2,
+          "probability": 0.9945880174636841
+        },
+        {
+          "word": " extraordinary",
+          "start": 8.2,
+          "end": 8.78,
+          "probability": 0.9988778233528137
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.78,
+      "end": 11.02,
+      "text": " that it might force NASA's hand.",
+      "tokens": [
+        50825,
+        326,
+        340,
+        1244,
+        2700,
+        8884,
+        338,
+        1021,
+        13,
+        50929
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12211782687178283,
+      "compression_ratio": 1.5551724137931036,
+      "no_speech_prob": 0.043639399111270905,
+      "words": [
+        {
+          "word": " that",
+          "start": 8.78,
+          "end": 9.4,
+          "probability": 0.948040246963501
+        },
+        {
+          "word": " it",
+          "start": 9.4,
+          "end": 9.5,
+          "probability": 0.9981210827827454
+        },
+        {
+          "word": " might",
+          "start": 9.5,
+          "end": 9.68,
+          "probability": 0.9979695677757263
+        },
+        {
+          "word": " force",
+          "start": 9.68,
+          "end": 10.08,
+          "probability": 0.9985130429267883
+        },
+        {
+          "word": " NASA's",
+          "start": 10.08,
+          "end": 10.78,
+          "probability": 0.9939466416835785
+        },
+        {
+          "word": " hand.",
+          "start": 10.78,
+          "end": 11.02,
+          "probability": 0.9946590065956116
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.48,
+      "end": 16.74,
+      "text": " Even Joe Rogan is talking about it, asking why they'd completely shut down such a vital mission.",
+      "tokens": [
+        50929,
+        3412,
+        5689,
+        8041,
+        272,
+        318,
+        3375,
+        546,
+        340,
+        11,
+        4737,
+        1521,
+        484,
+        1549,
+        3190,
+        4423,
+        866,
+        884,
+        257,
+        9204,
+        4365,
+        13,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12211782687178283,
+      "compression_ratio": 1.5551724137931036,
+      "no_speech_prob": 0.043639399111270905,
+      "words": [
+        {
+          "word": " Even",
+          "start": 11.48,
+          "end": 11.6,
+          "probability": 0.9891325831413269
+        },
+        {
+          "word": " Joe",
+          "start": 11.6,
+          "end": 11.84,
+          "probability": 0.977612316608429
+        },
+        {
+          "word": " Rogan",
+          "start": 11.84,
+          "end": 12.32,
+          "probability": 0.9510639607906342
+        },
+        {
+          "word": " is",
+          "start": 12.32,
+          "end": 12.42,
+          "probability": 0.9983131885528564
+        },
+        {
+          "word": " talking",
+          "start": 12.42,
+          "end": 12.6,
+          "probability": 0.9990366697311401
+        },
+        {
+          "word": " about",
+          "start": 12.6,
+          "end": 12.98,
+          "probability": 0.9996135830879211
+        },
+        {
+          "word": " it,",
+          "start": 12.98,
+          "end": 13.18,
+          "probability": 0.9985081553459167
+        },
+        {
+          "word": " asking",
+          "start": 13.34,
+          "end": 13.66,
+          "probability": 0.998129665851593
+        },
+        {
+          "word": " why",
+          "start": 13.66,
+          "end": 13.96,
+          "probability": 0.9983559250831604
+        },
+        {
+          "word": " they'd",
+          "start": 13.96,
+          "end": 14.3,
+          "probability": 0.9808186888694763
+        },
+        {
+          "word": " completely",
+          "start": 14.3,
+          "end": 14.6,
+          "probability": 0.9974297881126404
+        },
+        {
+          "word": " shut",
+          "start": 14.6,
+          "end": 15.0,
+          "probability": 0.9928305745124817
+        },
+        {
+          "word": " down",
+          "start": 15.0,
+          "end": 15.38,
+          "probability": 0.9985095858573914
+        },
+        {
+          "word": " such",
+          "start": 15.38,
+          "end": 15.88,
+          "probability": 0.9949770569801331
+        },
+        {
+          "word": " a",
+          "start": 15.88,
+          "end": 16.06,
+          "probability": 0.9994427561759949
+        },
+        {
+          "word": " vital",
+          "start": 16.06,
+          "end": 16.3,
+          "probability": 0.9977287650108337
+        },
+        {
+          "word": " mission.",
+          "start": 16.3,
+          "end": 16.74,
+          "probability": 0.9993818998336792
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.18,
+      "end": 21.1,
+      "text": " Is it an alien signal, a cosmic hazard, or something even stranger?",
+      "tokens": [
+        51215,
+        1148,
+        340,
+        281,
+        8756,
+        6737,
+        11,
+        257,
+        23464,
+        15834,
+        11,
+        393,
+        1223,
+        772,
+        16195,
+        30,
+        51443
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12211782687178283,
+      "compression_ratio": 1.5551724137931036,
+      "no_speech_prob": 0.043639399111270905,
+      "words": [
+        {
+          "word": " Is",
+          "start": 17.18,
+          "end": 17.22,
+          "probability": 0.9931128621101379
+        },
+        {
+          "word": " it",
+          "start": 17.22,
+          "end": 17.32,
+          "probability": 0.9986018538475037
+        },
+        {
+          "word": " an",
+          "start": 17.32,
+          "end": 17.44,
+          "probability": 0.9957834482192993
+        },
+        {
+          "word": " alien",
+          "start": 17.44,
+          "end": 17.72,
+          "probability": 0.9899011850357056
+        },
+        {
+          "word": " signal,",
+          "start": 17.72,
+          "end": 18.14,
+          "probability": 0.985481321811676
+        },
+        {
+          "word": " a",
+          "start": 18.66,
+          "end": 18.72,
+          "probability": 0.9964195489883423
+        },
+        {
+          "word": " cosmic",
+          "start": 18.72,
+          "end": 19.1,
+          "probability": 0.9963464140892029
+        },
+        {
+          "word": " hazard,",
+          "start": 19.1,
+          "end": 19.42,
+          "probability": 0.9993500113487244
+        },
+        {
+          "word": " or",
+          "start": 19.42,
+          "end": 20.0,
+          "probability": 0.9991150498390198
+        },
+        {
+          "word": " something",
+          "start": 20.0,
+          "end": 20.36,
+          "probability": 0.999009370803833
+        },
+        {
+          "word": " even",
+          "start": 20.36,
+          "end": 20.76,
+          "probability": 0.9765869975090027
+        },
+        {
+          "word": " stranger?",
+          "start": 20.76,
+          "end": 21.1,
+          "probability": 0.994612455368042
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.68,
+      "end": 28.16,
+      "text": " Get ready to explore the bizarre truth behind Voyager 2's final days before NASA pulls the plug.",
+      "tokens": [
+        51443,
+        3497,
+        3492,
+        284,
+        7301,
+        262,
+        13699,
+        3872,
+        2157,
+        34124,
+        362,
+        338,
+        2457,
+        1528,
+        878,
+        8884,
+        16194,
+        262,
+        6107,
+        13,
+        51785
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12211782687178283,
+      "compression_ratio": 1.5551724137931036,
+      "no_speech_prob": 0.043639399111270905,
+      "words": [
+        {
+          "word": " Get",
+          "start": 21.68,
+          "end": 21.78,
+          "probability": 0.9943704009056091
+        },
+        {
+          "word": " ready",
+          "start": 21.78,
+          "end": 21.98,
+          "probability": 0.9995112419128418
+        },
+        {
+          "word": " to",
+          "start": 21.98,
+          "end": 22.2,
+          "probability": 0.9996102452278137
+        },
+        {
+          "word": " explore",
+          "start": 22.2,
+          "end": 22.54,
+          "probability": 0.9996304512023926
+        },
+        {
+          "word": " the",
+          "start": 22.54,
+          "end": 22.76,
+          "probability": 0.9978381991386414
+        },
+        {
+          "word": " bizarre",
+          "start": 22.76,
+          "end": 22.98,
+          "probability": 0.9957457184791565
+        },
+        {
+          "word": " truth",
+          "start": 22.98,
+          "end": 23.42,
+          "probability": 0.9976366758346558
+        },
+        {
+          "word": " behind",
+          "start": 23.42,
+          "end": 23.92,
+          "probability": 0.989069938659668
+        },
+        {
+          "word": " Voyager",
+          "start": 23.92,
+          "end": 24.44,
+          "probability": 0.9973452687263489
+        },
+        {
+          "word": " 2's",
+          "start": 24.44,
+          "end": 25.1,
+          "probability": 0.9838268160820007
+        },
+        {
+          "word": " final",
+          "start": 25.1,
+          "end": 25.46,
+          "probability": 0.88600093126297
+        },
+        {
+          "word": " days",
+          "start": 25.46,
+          "end": 26.0,
+          "probability": 0.9985387325286865
+        },
+        {
+          "word": " before",
+          "start": 26.0,
+          "end": 26.74,
+          "probability": 0.8633841872215271
+        },
+        {
+          "word": " NASA",
+          "start": 26.74,
+          "end": 27.2,
+          "probability": 0.9988127946853638
+        },
+        {
+          "word": " pulls",
+          "start": 27.2,
+          "end": 27.7,
+          "probability": 0.9952862858772278
+        },
+        {
+          "word": " the",
+          "start": 27.7,
+          "end": 27.96,
+          "probability": 0.9992498755455017
+        },
+        {
+          "word": " plug.",
+          "start": 27.96,
+          "end": 28.16,
+          "probability": 0.9902403354644775
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2816,
+      "start": 28.16,
+      "end": 30.4,
+      "text": " Early vision and launch circumstances.",
+      "tokens": [
+        50363,
+        12556,
+        5761,
+        290,
+        4219,
+        5917,
+        13,
+        50495
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23132032371429076,
+      "compression_ratio": 1.4780876494023905,
+      "no_speech_prob": 0.587463915348053,
+      "words": [
+        {
+          "word": " Early",
+          "start": 28.16,
+          "end": 28.72,
+          "probability": 0.062249794602394104
+        },
+        {
+          "word": " vision",
+          "start": 28.72,
+          "end": 29.04,
+          "probability": 0.8002472519874573
+        },
+        {
+          "word": " and",
+          "start": 29.04,
+          "end": 29.48,
+          "probability": 0.9603753685951233
+        },
+        {
+          "word": " launch",
+          "start": 29.48,
+          "end": 29.7,
+          "probability": 0.9842979311943054
+        },
+        {
+          "word": " circumstances.",
+          "start": 29.7,
+          "end": 30.4,
+          "probability": 0.9628664255142212
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2816,
+      "start": 31.06,
+      "end": 35.02,
+      "text": " Voyager 2 is one of humanity's most remarkable space probes,",
+      "tokens": [
+        50495,
+        34124,
+        362,
+        318,
+        530,
+        286,
+        9265,
+        338,
+        749,
+        11004,
+        2272,
+        33124,
+        11,
+        50717
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23132032371429076,
+      "compression_ratio": 1.4780876494023905,
+      "no_speech_prob": 0.587463915348053,
+      "words": [
+        {
+          "word": " Voyager",
+          "start": 31.06,
+          "end": 31.22,
+          "probability": 0.9475349187850952
+        },
+        {
+          "word": " 2",
+          "start": 31.22,
+          "end": 31.88,
+          "probability": 0.8926399350166321
+        },
+        {
+          "word": " is",
+          "start": 31.88,
+          "end": 32.3,
+          "probability": 0.9884131550788879
+        },
+        {
+          "word": " one",
+          "start": 32.3,
+          "end": 32.5,
+          "probability": 0.997222900390625
+        },
+        {
+          "word": " of",
+          "start": 32.5,
+          "end": 32.62,
+          "probability": 0.9990737438201904
+        },
+        {
+          "word": " humanity's",
+          "start": 32.62,
+          "end": 33.34,
+          "probability": 0.9965530931949615
+        },
+        {
+          "word": " most",
+          "start": 33.34,
+          "end": 33.54,
+          "probability": 0.9954755902290344
+        },
+        {
+          "word": " remarkable",
+          "start": 33.54,
+          "end": 34.22,
+          "probability": 0.9992054104804993
+        },
+        {
+          "word": " space",
+          "start": 34.22,
+          "end": 34.58,
+          "probability": 0.9875260591506958
+        },
+        {
+          "word": " probes,",
+          "start": 34.58,
+          "end": 35.02,
+          "probability": 0.9951654672622681
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2816,
+      "start": 35.44,
+      "end": 44.1,
+      "text": " representing an era when curiosity about distant worlds drove daring missions beyond the boundaries of conventional knowledge.",
+      "tokens": [
+        50717,
+        10200,
+        281,
+        6980,
+        618,
+        20136,
+        546,
+        12899,
+        11621,
+        10357,
+        27939,
+        10566,
+        3675,
+        262,
+        13215,
+        286,
+        10224,
+        3725,
+        13,
+        51167
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23132032371429076,
+      "compression_ratio": 1.4780876494023905,
+      "no_speech_prob": 0.587463915348053,
+      "words": [
+        {
+          "word": " representing",
+          "start": 35.44,
+          "end": 36.02,
+          "probability": 0.9947819113731384
+        },
+        {
+          "word": " an",
+          "start": 36.02,
+          "end": 36.46,
+          "probability": 0.9970429539680481
+        },
+        {
+          "word": " era",
+          "start": 36.46,
+          "end": 36.78,
+          "probability": 0.9975806474685669
+        },
+        {
+          "word": " when",
+          "start": 36.78,
+          "end": 37.32,
+          "probability": 0.9646362662315369
+        },
+        {
+          "word": " curiosity",
+          "start": 37.32,
+          "end": 37.8,
+          "probability": 0.9850401878356934
+        },
+        {
+          "word": " about",
+          "start": 37.8,
+          "end": 38.36,
+          "probability": 0.9981808662414551
+        },
+        {
+          "word": " distant",
+          "start": 38.36,
+          "end": 38.68,
+          "probability": 0.9975824356079102
+        },
+        {
+          "word": " worlds",
+          "start": 38.68,
+          "end": 39.28,
+          "probability": 0.9972411394119263
+        },
+        {
+          "word": " drove",
+          "start": 39.28,
+          "end": 39.94,
+          "probability": 0.9701406359672546
+        },
+        {
+          "word": " daring",
+          "start": 39.94,
+          "end": 40.4,
+          "probability": 0.9927636981010437
+        },
+        {
+          "word": " missions",
+          "start": 40.4,
+          "end": 40.94,
+          "probability": 0.9987912774085999
+        },
+        {
+          "word": " beyond",
+          "start": 40.94,
+          "end": 41.64,
+          "probability": 0.9938581585884094
+        },
+        {
+          "word": " the",
+          "start": 41.64,
+          "end": 42.1,
+          "probability": 0.9987307190895081
+        },
+        {
+          "word": " boundaries",
+          "start": 42.1,
+          "end": 42.38,
+          "probability": 0.9991648197174072
+        },
+        {
+          "word": " of",
+          "start": 42.38,
+          "end": 43.08,
+          "probability": 0.9991299510002136
+        },
+        {
+          "word": " conventional",
+          "start": 43.08,
+          "end": 43.3,
+          "probability": 0.9980447292327881
+        },
+        {
+          "word": " knowledge.",
+          "start": 43.3,
+          "end": 44.1,
+          "probability": 0.9996022582054138
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2816,
+      "start": 44.58,
+      "end": 50.42,
+      "text": " Launched on August 20, 1977, this automated envoy predates its twin,",
+      "tokens": [
+        51167,
+        19826,
+        1740,
+        319,
+        2932,
+        1160,
+        11,
+        15589,
+        11,
+        428,
+        16359,
+        39137,
+        2747,
+        689,
+        663,
+        15203,
+        11,
+        51483
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23132032371429076,
+      "compression_ratio": 1.4780876494023905,
+      "no_speech_prob": 0.587463915348053,
+      "words": [
+        {
+          "word": " Launched",
+          "start": 44.58,
+          "end": 45.02,
+          "probability": 0.9854802191257477
+        },
+        {
+          "word": " on",
+          "start": 45.02,
+          "end": 45.24,
+          "probability": 0.976059079170227
+        },
+        {
+          "word": " August",
+          "start": 45.24,
+          "end": 45.6,
+          "probability": 0.9818199872970581
+        },
+        {
+          "word": " 20,",
+          "start": 45.6,
+          "end": 45.94,
+          "probability": 0.9939601421356201
+        },
+        {
+          "word": " 1977,",
+          "start": 46.34,
+          "end": 47.1,
+          "probability": 0.9966967105865479
+        },
+        {
+          "word": " this",
+          "start": 47.82,
+          "end": 48.04,
+          "probability": 0.9977310299873352
+        },
+        {
+          "word": " automated",
+          "start": 48.04,
+          "end": 48.58,
+          "probability": 0.9951895475387573
+        },
+        {
+          "word": " envoy",
+          "start": 48.58,
+          "end": 48.88,
+          "probability": 0.7431992888450623
+        },
+        {
+          "word": " predates",
+          "start": 48.88,
+          "end": 49.9,
+          "probability": 0.8948743939399719
+        },
+        {
+          "word": " its",
+          "start": 49.9,
+          "end": 50.14,
+          "probability": 0.98661869764328
+        },
+        {
+          "word": " twin,",
+          "start": 50.14,
+          "end": 50.42,
+          "probability": 0.9942051768302917
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2816,
+      "start": 50.84,
+      "end": 52.72,
+      "text": " Voyager 1, by a few weeks.",
+      "tokens": [
+        51483,
+        34124,
+        352,
+        11,
+        416,
+        257,
+        1178,
+        2745,
+        13,
+        51599
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23132032371429076,
+      "compression_ratio": 1.4780876494023905,
+      "no_speech_prob": 0.587463915348053,
+      "words": [
+        {
+          "word": " Voyager",
+          "start": 50.84,
+          "end": 51.06,
+          "probability": 0.9840361475944519
+        },
+        {
+          "word": " 1,",
+          "start": 51.06,
+          "end": 51.56,
+          "probability": 0.9723305702209473
+        },
+        {
+          "word": " by",
+          "start": 51.86,
+          "end": 52.08,
+          "probability": 0.9792223572731018
+        },
+        {
+          "word": " a",
+          "start": 52.08,
+          "end": 52.22,
+          "probability": 0.9970357418060303
+        },
+        {
+          "word": " few",
+          "start": 52.22,
+          "end": 52.42,
+          "probability": 0.9998490810394287
+        },
+        {
+          "word": " weeks.",
+          "start": 52.42,
+          "end": 52.72,
+          "probability": 0.9996008276939392
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2816,
+      "start": 53.12,
+      "end": 55.5,
+      "text": " Though Voyager 1 travels on a faster trajectory,",
+      "tokens": [
+        51599,
+        7486,
+        34124,
+        352,
+        17781,
+        319,
+        257,
+        5443,
+        22942,
+        11,
+        51745
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23132032371429076,
+      "compression_ratio": 1.4780876494023905,
+      "no_speech_prob": 0.587463915348053,
+      "words": [
+        {
+          "word": " Though",
+          "start": 53.12,
+          "end": 53.32,
+          "probability": 0.9893580675125122
+        },
+        {
+          "word": " Voyager",
+          "start": 53.32,
+          "end": 53.54,
+          "probability": 0.9961756467819214
+        },
+        {
+          "word": " 1",
+          "start": 53.54,
+          "end": 53.94,
+          "probability": 0.9950035214424133
+        },
+        {
+          "word": " travels",
+          "start": 53.94,
+          "end": 54.3,
+          "probability": 0.9990843534469604
+        },
+        {
+          "word": " on",
+          "start": 54.3,
+          "end": 54.58,
+          "probability": 0.9984667897224426
+        },
+        {
+          "word": " a",
+          "start": 54.58,
+          "end": 54.68,
+          "probability": 0.9956258535385132
+        },
+        {
+          "word": " faster",
+          "start": 54.68,
+          "end": 55.0,
+          "probability": 0.9935101866722107
+        },
+        {
+          "word": " trajectory,",
+          "start": 55.0,
+          "end": 55.5,
+          "probability": 0.9992401599884033
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5550,
+      "start": 55.5,
+      "end": 59.96,
+      "text": " engineers at NASA's Jet Propulsion Laboratory in Pasadena, California,",
+      "tokens": [
+        50387,
+        12037,
+        379,
+        8884,
+        338,
+        19013,
+        8772,
+        15204,
+        18643,
+        287,
+        41010,
+        11,
+        3442,
+        11,
+        50603
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14939042746302594,
+      "compression_ratio": 1.5275590551181102,
+      "no_speech_prob": 0.14460331201553345,
+      "words": [
+        {
+          "word": " engineers",
+          "start": 55.5,
+          "end": 56.36,
+          "probability": 0.0021951545495539904
+        },
+        {
+          "word": " at",
+          "start": 56.36,
+          "end": 56.72,
+          "probability": 0.9657790660858154
+        },
+        {
+          "word": " NASA's",
+          "start": 56.72,
+          "end": 57.18,
+          "probability": 0.9759606420993805
+        },
+        {
+          "word": " Jet",
+          "start": 57.18,
+          "end": 57.4,
+          "probability": 0.8597860932350159
+        },
+        {
+          "word": " Propulsion",
+          "start": 57.4,
+          "end": 57.92,
+          "probability": 0.9929949641227722
+        },
+        {
+          "word": " Laboratory",
+          "start": 57.92,
+          "end": 58.34,
+          "probability": 0.9935478568077087
+        },
+        {
+          "word": " in",
+          "start": 58.34,
+          "end": 58.82,
+          "probability": 0.9787781238555908
+        },
+        {
+          "word": " Pasadena,",
+          "start": 58.82,
+          "end": 59.06,
+          "probability": 0.9948499798774719
+        },
+        {
+          "word": " California,",
+          "start": 59.06,
+          "end": 59.96,
+          "probability": 0.9785863757133484
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5550,
+      "start": 59.96,
+      "end": 66.28,
+      "text": " aimed to explore the outer reaches of the solar system and uncover secrets of giant planets",
+      "tokens": [
+        50603,
+        8998,
+        284,
+        7301,
+        262,
+        12076,
+        12229,
+        286,
+        262,
+        6591,
+        1080,
+        290,
+        23658,
+        13141,
+        286,
+        6175,
+        14705,
+        50923
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14939042746302594,
+      "compression_ratio": 1.5275590551181102,
+      "no_speech_prob": 0.14460331201553345,
+      "words": [
+        {
+          "word": " aimed",
+          "start": 59.96,
+          "end": 60.58,
+          "probability": 0.9274027943611145
+        },
+        {
+          "word": " to",
+          "start": 60.58,
+          "end": 60.84,
+          "probability": 0.9991718530654907
+        },
+        {
+          "word": " explore",
+          "start": 60.84,
+          "end": 61.24,
+          "probability": 0.9978787899017334
+        },
+        {
+          "word": " the",
+          "start": 61.24,
+          "end": 61.56,
+          "probability": 0.9967783093452454
+        },
+        {
+          "word": " outer",
+          "start": 61.56,
+          "end": 61.86,
+          "probability": 0.9980341792106628
+        },
+        {
+          "word": " reaches",
+          "start": 61.86,
+          "end": 62.28,
+          "probability": 0.9869698286056519
+        },
+        {
+          "word": " of",
+          "start": 62.28,
+          "end": 62.76,
+          "probability": 0.9985408782958984
+        },
+        {
+          "word": " the",
+          "start": 62.76,
+          "end": 62.88,
+          "probability": 0.997320830821991
+        },
+        {
+          "word": " solar",
+          "start": 62.88,
+          "end": 63.1,
+          "probability": 0.8720451593399048
+        },
+        {
+          "word": " system",
+          "start": 63.1,
+          "end": 63.5,
+          "probability": 0.9980474710464478
+        },
+        {
+          "word": " and",
+          "start": 63.5,
+          "end": 64.0,
+          "probability": 0.9024415016174316
+        },
+        {
+          "word": " uncover",
+          "start": 64.0,
+          "end": 64.3,
+          "probability": 0.9910691976547241
+        },
+        {
+          "word": " secrets",
+          "start": 64.3,
+          "end": 64.84,
+          "probability": 0.9955053329467773
+        },
+        {
+          "word": " of",
+          "start": 64.84,
+          "end": 65.38,
+          "probability": 0.996600329875946
+        },
+        {
+          "word": " giant",
+          "start": 65.38,
+          "end": 65.68,
+          "probability": 0.9913312196731567
+        },
+        {
+          "word": " planets",
+          "start": 65.68,
+          "end": 66.28,
+          "probability": 0.9986860156059265
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5550,
+      "start": 66.28,
+      "end": 68.88,
+      "text": " that were mostly unknown at the time.",
+      "tokens": [
+        50923,
+        326,
+        547,
+        4632,
+        6439,
+        379,
+        262,
+        640,
+        13,
+        51043
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14939042746302594,
+      "compression_ratio": 1.5275590551181102,
+      "no_speech_prob": 0.14460331201553345,
+      "words": [
+        {
+          "word": " that",
+          "start": 66.28,
+          "end": 66.88,
+          "probability": 0.9847608208656311
+        },
+        {
+          "word": " were",
+          "start": 66.88,
+          "end": 67.0,
+          "probability": 0.9957570433616638
+        },
+        {
+          "word": " mostly",
+          "start": 67.0,
+          "end": 67.36,
+          "probability": 0.9976027607917786
+        },
+        {
+          "word": " unknown",
+          "start": 67.36,
+          "end": 67.76,
+          "probability": 0.9912109971046448
+        },
+        {
+          "word": " at",
+          "start": 67.76,
+          "end": 68.46,
+          "probability": 0.9942119717597961
+        },
+        {
+          "word": " the",
+          "start": 68.46,
+          "end": 68.56,
+          "probability": 0.9956192374229431
+        },
+        {
+          "word": " time.",
+          "start": 68.56,
+          "end": 68.88,
+          "probability": 0.9997089505195618
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5550,
+      "start": 69.18,
+      "end": 76.58,
+      "text": " In those days, the space age was still young and confidence in untested technology was mixed with intense optimism.",
+      "tokens": [
+        51043,
+        554,
+        883,
+        1528,
+        11,
+        262,
+        2272,
+        2479,
+        373,
+        991,
+        1862,
+        290,
+        6628,
+        287,
+        1418,
+        7287,
+        3037,
+        373,
+        7668,
+        351,
+        8157,
+        24323,
+        13,
+        51447
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14939042746302594,
+      "compression_ratio": 1.5275590551181102,
+      "no_speech_prob": 0.14460331201553345,
+      "words": [
+        {
+          "word": " In",
+          "start": 69.18,
+          "end": 69.28,
+          "probability": 0.9953792095184326
+        },
+        {
+          "word": " those",
+          "start": 69.28,
+          "end": 69.46,
+          "probability": 0.9988294243812561
+        },
+        {
+          "word": " days,",
+          "start": 69.46,
+          "end": 69.82,
+          "probability": 0.9994627833366394
+        },
+        {
+          "word": " the",
+          "start": 70.12,
+          "end": 70.3,
+          "probability": 0.9954597353935242
+        },
+        {
+          "word": " space",
+          "start": 70.3,
+          "end": 70.48,
+          "probability": 0.8689009547233582
+        },
+        {
+          "word": " age",
+          "start": 70.48,
+          "end": 70.88,
+          "probability": 0.99639493227005
+        },
+        {
+          "word": " was",
+          "start": 70.88,
+          "end": 71.16,
+          "probability": 0.9963213205337524
+        },
+        {
+          "word": " still",
+          "start": 71.16,
+          "end": 71.42,
+          "probability": 0.9998173117637634
+        },
+        {
+          "word": " young",
+          "start": 71.42,
+          "end": 71.78,
+          "probability": 0.9985294342041016
+        },
+        {
+          "word": " and",
+          "start": 71.78,
+          "end": 72.16,
+          "probability": 0.43010106682777405
+        },
+        {
+          "word": " confidence",
+          "start": 72.16,
+          "end": 72.58,
+          "probability": 0.9948058724403381
+        },
+        {
+          "word": " in",
+          "start": 72.58,
+          "end": 73.24,
+          "probability": 0.9930167198181152
+        },
+        {
+          "word": " untested",
+          "start": 73.24,
+          "end": 73.76,
+          "probability": 0.993012011051178
+        },
+        {
+          "word": " technology",
+          "start": 73.76,
+          "end": 74.32,
+          "probability": 0.9992247819900513
+        },
+        {
+          "word": " was",
+          "start": 74.32,
+          "end": 75.04,
+          "probability": 0.9959251880645752
+        },
+        {
+          "word": " mixed",
+          "start": 75.04,
+          "end": 75.32,
+          "probability": 0.9988768696784973
+        },
+        {
+          "word": " with",
+          "start": 75.32,
+          "end": 75.88,
+          "probability": 0.9975860118865967
+        },
+        {
+          "word": " intense",
+          "start": 75.88,
+          "end": 76.18,
+          "probability": 0.9981600642204285
+        },
+        {
+          "word": " optimism.",
+          "start": 76.18,
+          "end": 76.58,
+          "probability": 0.9993581175804138
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5550,
+      "start": 77.26,
+      "end": 81.24,
+      "text": " The mission was set in motion because of an unusual planetary alignment",
+      "tokens": [
+        51447,
+        383,
+        4365,
+        373,
+        900,
+        287,
+        6268,
+        780,
+        286,
+        281,
+        8468,
+        27047,
+        19114,
+        51667
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14939042746302594,
+      "compression_ratio": 1.5275590551181102,
+      "no_speech_prob": 0.14460331201553345,
+      "words": [
+        {
+          "word": " The",
+          "start": 77.26,
+          "end": 77.32,
+          "probability": 0.9930732846260071
+        },
+        {
+          "word": " mission",
+          "start": 77.32,
+          "end": 77.56,
+          "probability": 0.9950070381164551
+        },
+        {
+          "word": " was",
+          "start": 77.56,
+          "end": 78.08,
+          "probability": 0.9980904459953308
+        },
+        {
+          "word": " set",
+          "start": 78.08,
+          "end": 78.32,
+          "probability": 0.9993656277656555
+        },
+        {
+          "word": " in",
+          "start": 78.32,
+          "end": 78.48,
+          "probability": 0.9994997978210449
+        },
+        {
+          "word": " motion",
+          "start": 78.48,
+          "end": 78.72,
+          "probability": 0.9987828135490417
+        },
+        {
+          "word": " because",
+          "start": 78.72,
+          "end": 79.32,
+          "probability": 0.945751428604126
+        },
+        {
+          "word": " of",
+          "start": 79.32,
+          "end": 79.46,
+          "probability": 0.9993556141853333
+        },
+        {
+          "word": " an",
+          "start": 79.46,
+          "end": 79.58,
+          "probability": 0.9980327486991882
+        },
+        {
+          "word": " unusual",
+          "start": 79.58,
+          "end": 79.94,
+          "probability": 0.998347282409668
+        },
+        {
+          "word": " planetary",
+          "start": 79.94,
+          "end": 80.54,
+          "probability": 0.9940674304962158
+        },
+        {
+          "word": " alignment",
+          "start": 80.54,
+          "end": 81.24,
+          "probability": 0.9992676377296448
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8124,
+      "start": 81.24,
+      "end": 85.32,
+      "text": " that would appear only once every 176 years.",
+      "tokens": [
+        50363,
+        326,
+        561,
+        1656,
+        691,
+        1752,
+        790,
+        26937,
+        812,
+        13,
+        50583
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13774583479937386,
+      "compression_ratio": 1.565217391304348,
+      "no_speech_prob": 0.7658446431159973,
+      "words": [
+        {
+          "word": " that",
+          "start": 81.24,
+          "end": 81.72,
+          "probability": 0.15661828219890594
+        },
+        {
+          "word": " would",
+          "start": 81.72,
+          "end": 81.86,
+          "probability": 0.9581330418586731
+        },
+        {
+          "word": " appear",
+          "start": 81.86,
+          "end": 82.14,
+          "probability": 0.987098753452301
+        },
+        {
+          "word": " only",
+          "start": 82.14,
+          "end": 82.8,
+          "probability": 0.9065988063812256
+        },
+        {
+          "word": " once",
+          "start": 82.8,
+          "end": 83.2,
+          "probability": 0.9987472295761108
+        },
+        {
+          "word": " every",
+          "start": 83.2,
+          "end": 83.56,
+          "probability": 0.9911563396453857
+        },
+        {
+          "word": " 176",
+          "start": 83.56,
+          "end": 84.6,
+          "probability": 0.9446471929550171
+        },
+        {
+          "word": " years.",
+          "start": 84.6,
+          "end": 85.32,
+          "probability": 0.9959773421287537
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8124,
+      "start": 85.82,
+      "end": 89.4,
+      "text": " This alignment led a spacecraft gained speed through gravity assists,",
+      "tokens": [
+        50583,
+        770,
+        19114,
+        2957,
+        257,
+        16807,
+        8618,
+        2866,
+        832,
+        13522,
+        13648,
+        11,
+        50795
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13774583479937386,
+      "compression_ratio": 1.565217391304348,
+      "no_speech_prob": 0.7658446431159973,
+      "words": [
+        {
+          "word": " This",
+          "start": 85.82,
+          "end": 85.92,
+          "probability": 0.9852779507637024
+        },
+        {
+          "word": " alignment",
+          "start": 85.92,
+          "end": 86.28,
+          "probability": 0.9953392744064331
+        },
+        {
+          "word": " led",
+          "start": 86.28,
+          "end": 86.64,
+          "probability": 0.6532048583030701
+        },
+        {
+          "word": " a",
+          "start": 86.64,
+          "end": 86.76,
+          "probability": 0.8213318586349487
+        },
+        {
+          "word": " spacecraft",
+          "start": 86.76,
+          "end": 87.1,
+          "probability": 0.9392578601837158
+        },
+        {
+          "word": " gained",
+          "start": 87.1,
+          "end": 87.62,
+          "probability": 0.745934009552002
+        },
+        {
+          "word": " speed",
+          "start": 87.62,
+          "end": 88.04,
+          "probability": 0.9986490607261658
+        },
+        {
+          "word": " through",
+          "start": 88.04,
+          "end": 88.6,
+          "probability": 0.9695544242858887
+        },
+        {
+          "word": " gravity",
+          "start": 88.6,
+          "end": 88.96,
+          "probability": 0.9944561123847961
+        },
+        {
+          "word": " assists,",
+          "start": 88.96,
+          "end": 89.4,
+          "probability": 0.9723196625709534
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8124,
+      "start": 89.94,
+      "end": 92.8,
+      "text": " using the pull of each massive planet it passed.",
+      "tokens": [
+        50795,
+        1262,
+        262,
+        2834,
+        286,
+        1123,
+        4858,
+        5440,
+        340,
+        3804,
+        13,
+        50959
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13774583479937386,
+      "compression_ratio": 1.565217391304348,
+      "no_speech_prob": 0.7658446431159973,
+      "words": [
+        {
+          "word": " using",
+          "start": 89.94,
+          "end": 90.24,
+          "probability": 0.9956032037734985
+        },
+        {
+          "word": " the",
+          "start": 90.24,
+          "end": 90.46,
+          "probability": 0.9987493753433228
+        },
+        {
+          "word": " pull",
+          "start": 90.46,
+          "end": 90.68,
+          "probability": 0.8805328011512756
+        },
+        {
+          "word": " of",
+          "start": 90.68,
+          "end": 90.9,
+          "probability": 0.9985900521278381
+        },
+        {
+          "word": " each",
+          "start": 90.9,
+          "end": 91.2,
+          "probability": 0.9990366697311401
+        },
+        {
+          "word": " massive",
+          "start": 91.2,
+          "end": 91.58,
+          "probability": 0.9955294728279114
+        },
+        {
+          "word": " planet",
+          "start": 91.58,
+          "end": 92.12,
+          "probability": 0.9988096952438354
+        },
+        {
+          "word": " it",
+          "start": 92.12,
+          "end": 92.54,
+          "probability": 0.8523985147476196
+        },
+        {
+          "word": " passed.",
+          "start": 92.54,
+          "end": 92.8,
+          "probability": 0.9580822587013245
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8124,
+      "start": 93.32,
+      "end": 98.58,
+      "text": " By harnessing these assists, flight times to the outer solar system could be drastically shortened.",
+      "tokens": [
+        50959,
+        2750,
+        19356,
+        278,
+        777,
+        13648,
+        11,
+        5474,
+        1661,
+        284,
+        262,
+        12076,
+        6591,
+        1080,
+        714,
+        307,
+        22188,
+        34464,
+        13,
+        51243
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13774583479937386,
+      "compression_ratio": 1.565217391304348,
+      "no_speech_prob": 0.7658446431159973,
+      "words": [
+        {
+          "word": " By",
+          "start": 93.32,
+          "end": 93.44,
+          "probability": 0.9966254234313965
+        },
+        {
+          "word": " harnessing",
+          "start": 93.44,
+          "end": 93.98,
+          "probability": 0.9995779693126678
+        },
+        {
+          "word": " these",
+          "start": 93.98,
+          "end": 94.12,
+          "probability": 0.9966793060302734
+        },
+        {
+          "word": " assists,",
+          "start": 94.12,
+          "end": 94.44,
+          "probability": 0.9945710301399231
+        },
+        {
+          "word": " flight",
+          "start": 94.88,
+          "end": 95.18,
+          "probability": 0.9869332313537598
+        },
+        {
+          "word": " times",
+          "start": 95.18,
+          "end": 95.52,
+          "probability": 0.9735509753227234
+        },
+        {
+          "word": " to",
+          "start": 95.52,
+          "end": 95.84,
+          "probability": 0.9888741970062256
+        },
+        {
+          "word": " the",
+          "start": 95.84,
+          "end": 95.94,
+          "probability": 0.9968388080596924
+        },
+        {
+          "word": " outer",
+          "start": 95.94,
+          "end": 96.14,
+          "probability": 0.9951661825180054
+        },
+        {
+          "word": " solar",
+          "start": 96.14,
+          "end": 96.52,
+          "probability": 0.8892412781715393
+        },
+        {
+          "word": " system",
+          "start": 96.52,
+          "end": 96.96,
+          "probability": 0.999009370803833
+        },
+        {
+          "word": " could",
+          "start": 96.96,
+          "end": 97.48,
+          "probability": 0.9928374886512756
+        },
+        {
+          "word": " be",
+          "start": 97.48,
+          "end": 97.62,
+          "probability": 0.9990148544311523
+        },
+        {
+          "word": " drastically",
+          "start": 97.62,
+          "end": 97.98,
+          "probability": 0.9949131011962891
+        },
+        {
+          "word": " shortened.",
+          "start": 97.98,
+          "end": 98.58,
+          "probability": 0.9958494901657104
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8124,
+      "start": 99.1,
+      "end": 102.6,
+      "text": " When Voyager 2 was under development, there was tremendous enthusiasm",
+      "tokens": [
+        51243,
+        1649,
+        34124,
+        362,
+        373,
+        739,
+        2478,
+        11,
+        612,
+        373,
+        12465,
+        17131,
+        51451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13774583479937386,
+      "compression_ratio": 1.565217391304348,
+      "no_speech_prob": 0.7658446431159973,
+      "words": [
+        {
+          "word": " When",
+          "start": 99.1,
+          "end": 99.16,
+          "probability": 0.9959337115287781
+        },
+        {
+          "word": " Voyager",
+          "start": 99.16,
+          "end": 99.36,
+          "probability": 0.9895833730697632
+        },
+        {
+          "word": " 2",
+          "start": 99.36,
+          "end": 99.86,
+          "probability": 0.9456654787063599
+        },
+        {
+          "word": " was",
+          "start": 99.86,
+          "end": 100.14,
+          "probability": 0.9985430240631104
+        },
+        {
+          "word": " under",
+          "start": 100.14,
+          "end": 100.36,
+          "probability": 0.9992164373397827
+        },
+        {
+          "word": " development,",
+          "start": 100.36,
+          "end": 100.78,
+          "probability": 0.9803901314735413
+        },
+        {
+          "word": " there",
+          "start": 101.16,
+          "end": 101.32,
+          "probability": 0.9974514842033386
+        },
+        {
+          "word": " was",
+          "start": 101.32,
+          "end": 101.4,
+          "probability": 0.9995949864387512
+        },
+        {
+          "word": " tremendous",
+          "start": 101.4,
+          "end": 101.76,
+          "probability": 0.9976097345352173
+        },
+        {
+          "word": " enthusiasm",
+          "start": 101.76,
+          "end": 102.6,
+          "probability": 0.9983615279197693
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8124,
+      "start": 102.6,
+      "end": 106.68,
+      "text": " about the chance to visit multiple outer planets in one sweep.",
+      "tokens": [
+        51451,
+        546,
+        262,
+        2863,
+        284,
+        3187,
+        3294,
+        12076,
+        14705,
+        287,
+        530,
+        16085,
+        13,
+        51643
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13774583479937386,
+      "compression_ratio": 1.565217391304348,
+      "no_speech_prob": 0.7658446431159973,
+      "words": [
+        {
+          "word": " about",
+          "start": 102.6,
+          "end": 103.36,
+          "probability": 0.9774477481842041
+        },
+        {
+          "word": " the",
+          "start": 103.36,
+          "end": 103.52,
+          "probability": 0.9993637204170227
+        },
+        {
+          "word": " chance",
+          "start": 103.52,
+          "end": 103.72,
+          "probability": 0.9989187717437744
+        },
+        {
+          "word": " to",
+          "start": 103.72,
+          "end": 104.08,
+          "probability": 0.9990853071212769
+        },
+        {
+          "word": " visit",
+          "start": 104.08,
+          "end": 104.22,
+          "probability": 0.9988442659378052
+        },
+        {
+          "word": " multiple",
+          "start": 104.22,
+          "end": 104.56,
+          "probability": 0.9984146356582642
+        },
+        {
+          "word": " outer",
+          "start": 104.56,
+          "end": 105.0,
+          "probability": 0.9938164353370667
+        },
+        {
+          "word": " planets",
+          "start": 105.0,
+          "end": 105.38,
+          "probability": 0.9994783997535706
+        },
+        {
+          "word": " in",
+          "start": 105.38,
+          "end": 106.02,
+          "probability": 0.9959599375724792
+        },
+        {
+          "word": " one",
+          "start": 106.02,
+          "end": 106.26,
+          "probability": 0.9900581240653992
+        },
+        {
+          "word": " sweep.",
+          "start": 106.26,
+          "end": 106.68,
+          "probability": 0.9043456315994263
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 10668,
+      "start": 106.68,
+      "end": 110.64,
+      "text": " Planners recognized that missing this alignment meant losing an opportunity",
+      "tokens": [
+        50371,
+        5224,
+        2741,
+        8018,
+        326,
+        4814,
+        428,
+        19114,
+        4001,
+        6078,
+        281,
+        3663,
+        50587
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1168767249230111,
+      "compression_ratio": 1.6137184115523466,
+      "no_speech_prob": 0.2959446609020233,
+      "words": [
+        {
+          "word": " Planners",
+          "start": 106.68,
+          "end": 107.36,
+          "probability": 0.1996764913201332
+        },
+        {
+          "word": " recognized",
+          "start": 107.36,
+          "end": 107.7,
+          "probability": 0.42300641536712646
+        },
+        {
+          "word": " that",
+          "start": 107.7,
+          "end": 108.28,
+          "probability": 0.9896804690361023
+        },
+        {
+          "word": " missing",
+          "start": 108.28,
+          "end": 108.48,
+          "probability": 0.9809385538101196
+        },
+        {
+          "word": " this",
+          "start": 108.48,
+          "end": 108.84,
+          "probability": 0.990643322467804
+        },
+        {
+          "word": " alignment",
+          "start": 108.84,
+          "end": 109.16,
+          "probability": 0.9974144697189331
+        },
+        {
+          "word": " meant",
+          "start": 109.16,
+          "end": 109.72,
+          "probability": 0.9767162799835205
+        },
+        {
+          "word": " losing",
+          "start": 109.72,
+          "end": 110.12,
+          "probability": 0.9872072339057922
+        },
+        {
+          "word": " an",
+          "start": 110.12,
+          "end": 110.32,
+          "probability": 0.9904993176460266
+        },
+        {
+          "word": " opportunity",
+          "start": 110.32,
+          "end": 110.64,
+          "probability": 0.997431218624115
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 10668,
+      "start": 111.16000000000001,
+      "end": 113.2,
+      "text": " that would not return for generations.",
+      "tokens": [
+        50587,
+        326,
+        561,
+        407,
+        1441,
+        329,
+        10439,
+        13,
+        50731
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1168767249230111,
+      "compression_ratio": 1.6137184115523466,
+      "no_speech_prob": 0.2959446609020233,
+      "words": [
+        {
+          "word": " that",
+          "start": 111.11,
+          "end": 111.44,
+          "probability": 0.9817076921463013
+        },
+        {
+          "word": " would",
+          "start": 111.44,
+          "end": 111.58,
+          "probability": 0.9964074492454529
+        },
+        {
+          "word": " not",
+          "start": 111.58,
+          "end": 111.82,
+          "probability": 0.9979932308197021
+        },
+        {
+          "word": " return",
+          "start": 111.82,
+          "end": 112.3,
+          "probability": 0.9983364939689636
+        },
+        {
+          "word": " for",
+          "start": 112.3,
+          "end": 112.84,
+          "probability": 0.9959631562232971
+        },
+        {
+          "word": " generations.",
+          "start": 112.84,
+          "end": 113.2,
+          "probability": 0.9920051693916321
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 10668,
+      "start": 114.16,
+      "end": 118.36,
+      "text": " Intriguingly, although Voyager 2 launched first, it was labelled 2",
+      "tokens": [
+        50731,
+        2558,
+        4359,
+        4250,
+        306,
+        11,
+        3584,
+        34124,
+        362,
+        5611,
+        717,
+        11,
+        340,
+        373,
+        30538,
+        362,
+        50963
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1168767249230111,
+      "compression_ratio": 1.6137184115523466,
+      "no_speech_prob": 0.2959446609020233,
+      "words": [
+        {
+          "word": " Intriguingly,",
+          "start": 114.16,
+          "end": 114.82,
+          "probability": 0.9733333140611649
+        },
+        {
+          "word": " although",
+          "start": 115.04,
+          "end": 115.38,
+          "probability": 0.9925389885902405
+        },
+        {
+          "word": " Voyager",
+          "start": 115.38,
+          "end": 115.68,
+          "probability": 0.9769315123558044
+        },
+        {
+          "word": " 2",
+          "start": 115.68,
+          "end": 116.12,
+          "probability": 0.9099562168121338
+        },
+        {
+          "word": " launched",
+          "start": 116.12,
+          "end": 116.38,
+          "probability": 0.9969696402549744
+        },
+        {
+          "word": " first,",
+          "start": 116.38,
+          "end": 116.8,
+          "probability": 0.9613556861877441
+        },
+        {
+          "word": " it",
+          "start": 117.32,
+          "end": 117.38,
+          "probability": 0.995664656162262
+        },
+        {
+          "word": " was",
+          "start": 117.38,
+          "end": 117.52,
+          "probability": 0.9980193376541138
+        },
+        {
+          "word": " labelled",
+          "start": 117.52,
+          "end": 117.82,
+          "probability": 0.6069701313972473
+        },
+        {
+          "word": " 2",
+          "start": 117.82,
+          "end": 118.36,
+          "probability": 0.3797239363193512
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 10668,
+      "start": 118.36,
+      "end": 121.82,
+      "text": " because it evolved from a general plan for 2 Pro,",
+      "tokens": [
+        50963,
+        780,
+        340,
+        12572,
+        422,
+        257,
+        2276,
+        1410,
+        329,
+        362,
+        1041,
+        11,
+        51135
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1168767249230111,
+      "compression_ratio": 1.6137184115523466,
+      "no_speech_prob": 0.2959446609020233,
+      "words": [
+        {
+          "word": " because",
+          "start": 118.36,
+          "end": 118.92,
+          "probability": 0.6806692481040955
+        },
+        {
+          "word": " it",
+          "start": 118.92,
+          "end": 119.16,
+          "probability": 0.9982179999351501
+        },
+        {
+          "word": " evolved",
+          "start": 119.16,
+          "end": 119.38,
+          "probability": 0.9976726174354553
+        },
+        {
+          "word": " from",
+          "start": 119.38,
+          "end": 119.98,
+          "probability": 0.9968492388725281
+        },
+        {
+          "word": " a",
+          "start": 119.98,
+          "end": 120.06,
+          "probability": 0.9977911710739136
+        },
+        {
+          "word": " general",
+          "start": 120.06,
+          "end": 120.32,
+          "probability": 0.9821394085884094
+        },
+        {
+          "word": " plan",
+          "start": 120.32,
+          "end": 120.72,
+          "probability": 0.9974119067192078
+        },
+        {
+          "word": " for",
+          "start": 120.72,
+          "end": 121.22,
+          "probability": 0.9920440912246704
+        },
+        {
+          "word": " 2",
+          "start": 121.22,
+          "end": 121.48,
+          "probability": 0.9192055463790894
+        },
+        {
+          "word": " Pro,",
+          "start": 121.48,
+          "end": 121.82,
+          "probability": 0.4087003469467163
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 10668,
+      "start": 122.16,
+      "end": 124.54,
+      "text": " one that would eventually be on a shorter path,",
+      "tokens": [
+        51135,
+        530,
+        326,
+        561,
+        4191,
+        307,
+        319,
+        257,
+        12238,
+        3108,
+        11,
+        51267
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1168767249230111,
+      "compression_ratio": 1.6137184115523466,
+      "no_speech_prob": 0.2959446609020233,
+      "words": [
+        {
+          "word": " one",
+          "start": 122.16,
+          "end": 122.46,
+          "probability": 0.8102374076843262
+        },
+        {
+          "word": " that",
+          "start": 122.46,
+          "end": 122.74,
+          "probability": 0.9945958256721497
+        },
+        {
+          "word": " would",
+          "start": 122.74,
+          "end": 122.88,
+          "probability": 0.9931459426879883
+        },
+        {
+          "word": " eventually",
+          "start": 122.88,
+          "end": 123.28,
+          "probability": 0.9923911690711975
+        },
+        {
+          "word": " be",
+          "start": 123.28,
+          "end": 123.64,
+          "probability": 0.9986543655395508
+        },
+        {
+          "word": " on",
+          "start": 123.64,
+          "end": 123.8,
+          "probability": 0.9981251358985901
+        },
+        {
+          "word": " a",
+          "start": 123.8,
+          "end": 123.88,
+          "probability": 0.9970966577529907
+        },
+        {
+          "word": " shorter",
+          "start": 123.88,
+          "end": 124.16,
+          "probability": 0.9986273050308228
+        },
+        {
+          "word": " path,",
+          "start": 124.16,
+          "end": 124.54,
+          "probability": 0.9988124370574951
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 10668,
+      "start": 124.54,
+      "end": 128.88,
+      "text": " creating the possibility for a quicker arrival at Jupiter and Saturn.",
+      "tokens": [
+        51267,
+        4441,
+        262,
+        5885,
+        329,
+        257,
+        20061,
+        10325,
+        379,
+        22721,
+        290,
+        23135,
+        13,
+        51495
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1168767249230111,
+      "compression_ratio": 1.6137184115523466,
+      "no_speech_prob": 0.2959446609020233,
+      "words": [
+        {
+          "word": " creating",
+          "start": 124.54,
+          "end": 125.1,
+          "probability": 0.9980803728103638
+        },
+        {
+          "word": " the",
+          "start": 125.1,
+          "end": 125.42,
+          "probability": 0.9978575110435486
+        },
+        {
+          "word": " possibility",
+          "start": 125.42,
+          "end": 125.74,
+          "probability": 0.9988372921943665
+        },
+        {
+          "word": " for",
+          "start": 125.74,
+          "end": 126.24,
+          "probability": 0.997717022895813
+        },
+        {
+          "word": " a",
+          "start": 126.24,
+          "end": 126.36,
+          "probability": 0.9947574138641357
+        },
+        {
+          "word": " quicker",
+          "start": 126.36,
+          "end": 126.6,
+          "probability": 0.9968647360801697
+        },
+        {
+          "word": " arrival",
+          "start": 126.6,
+          "end": 127.02,
+          "probability": 0.9979540109634399
+        },
+        {
+          "word": " at",
+          "start": 127.02,
+          "end": 127.66,
+          "probability": 0.9495001435279846
+        },
+        {
+          "word": " Jupiter",
+          "start": 127.66,
+          "end": 127.92,
+          "probability": 0.9656215310096741
+        },
+        {
+          "word": " and",
+          "start": 127.92,
+          "end": 128.62,
+          "probability": 0.988742470741272
+        },
+        {
+          "word": " Saturn.",
+          "start": 128.62,
+          "end": 128.88,
+          "probability": 0.9983231425285339
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 10668,
+      "start": 129.42,
+      "end": 134.94,
+      "text": " Yet once the flight profiles were set, it turned out Voyager 2 would take a slightly longer route",
+      "tokens": [
+        51495,
+        6430,
+        1752,
+        262,
+        5474,
+        16545,
+        547,
+        900,
+        11,
+        340,
+        2900,
+        503,
+        34124,
+        362,
+        561,
+        1011,
+        257,
+        4622,
+        2392,
+        6339,
+        51783
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1168767249230111,
+      "compression_ratio": 1.6137184115523466,
+      "no_speech_prob": 0.2959446609020233,
+      "words": [
+        {
+          "word": " Yet",
+          "start": 129.42,
+          "end": 129.56,
+          "probability": 0.989788293838501
+        },
+        {
+          "word": " once",
+          "start": 129.56,
+          "end": 129.74,
+          "probability": 0.7652690410614014
+        },
+        {
+          "word": " the",
+          "start": 129.74,
+          "end": 129.94,
+          "probability": 0.996322512626648
+        },
+        {
+          "word": " flight",
+          "start": 129.94,
+          "end": 130.14,
+          "probability": 0.9851218461990356
+        },
+        {
+          "word": " profiles",
+          "start": 130.14,
+          "end": 130.56,
+          "probability": 0.9969812035560608
+        },
+        {
+          "word": " were",
+          "start": 130.56,
+          "end": 130.9,
+          "probability": 0.9957568049430847
+        },
+        {
+          "word": " set,",
+          "start": 130.9,
+          "end": 131.22,
+          "probability": 0.9996414184570312
+        },
+        {
+          "word": " it",
+          "start": 131.56,
+          "end": 131.64,
+          "probability": 0.9972476363182068
+        },
+        {
+          "word": " turned",
+          "start": 131.64,
+          "end": 131.9,
+          "probability": 0.9979627132415771
+        },
+        {
+          "word": " out",
+          "start": 131.9,
+          "end": 132.12,
+          "probability": 0.9974291920661926
+        },
+        {
+          "word": " Voyager",
+          "start": 132.12,
+          "end": 132.38,
+          "probability": 0.9949668049812317
+        },
+        {
+          "word": " 2",
+          "start": 132.38,
+          "end": 133.0,
+          "probability": 0.9930605888366699
+        },
+        {
+          "word": " would",
+          "start": 133.0,
+          "end": 133.4,
+          "probability": 0.9963907599449158
+        },
+        {
+          "word": " take",
+          "start": 133.4,
+          "end": 133.64,
+          "probability": 0.998932421207428
+        },
+        {
+          "word": " a",
+          "start": 133.64,
+          "end": 133.78,
+          "probability": 0.9972158670425415
+        },
+        {
+          "word": " slightly",
+          "start": 133.78,
+          "end": 134.18,
+          "probability": 0.9982258677482605
+        },
+        {
+          "word": " longer",
+          "start": 134.18,
+          "end": 134.6,
+          "probability": 0.9987900853157043
+        },
+        {
+          "word": " route",
+          "start": 134.6,
+          "end": 134.94,
+          "probability": 0.9976779818534851
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 13494,
+      "start": 134.94,
+      "end": 139.54,
+      "text": " in order to make sure it could swing past Uranus and Neptune later.",
+      "tokens": [
+        50371,
+        287,
+        1502,
+        284,
+        787,
+        1654,
+        340,
+        714,
+        9628,
+        1613,
+        33287,
+        385,
+        290,
+        26461,
+        1568,
+        13,
+        50607
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.057357178458684606,
+      "compression_ratio": 1.4844961240310077,
+      "no_speech_prob": 0.0025211903266608715,
+      "words": [
+        {
+          "word": " in",
+          "start": 134.94,
+          "end": 135.3,
+          "probability": 0.541421115398407
+        },
+        {
+          "word": " order",
+          "start": 135.3,
+          "end": 135.5,
+          "probability": 0.9974946975708008
+        },
+        {
+          "word": " to",
+          "start": 135.5,
+          "end": 135.72,
+          "probability": 0.9986758828163147
+        },
+        {
+          "word": " make",
+          "start": 135.72,
+          "end": 135.9,
+          "probability": 0.9968875050544739
+        },
+        {
+          "word": " sure",
+          "start": 135.9,
+          "end": 136.22,
+          "probability": 0.9985427856445312
+        },
+        {
+          "word": " it",
+          "start": 136.22,
+          "end": 136.7,
+          "probability": 0.9906343221664429
+        },
+        {
+          "word": " could",
+          "start": 136.7,
+          "end": 136.84,
+          "probability": 0.9969245791435242
+        },
+        {
+          "word": " swing",
+          "start": 136.84,
+          "end": 137.12,
+          "probability": 0.9921539425849915
+        },
+        {
+          "word": " past",
+          "start": 137.12,
+          "end": 137.54,
+          "probability": 0.9983211159706116
+        },
+        {
+          "word": " Uranus",
+          "start": 137.54,
+          "end": 138.28,
+          "probability": 0.9972003698348999
+        },
+        {
+          "word": " and",
+          "start": 138.28,
+          "end": 138.7,
+          "probability": 0.9760732650756836
+        },
+        {
+          "word": " Neptune",
+          "start": 138.7,
+          "end": 138.94,
+          "probability": 0.9898402690887451
+        },
+        {
+          "word": " later.",
+          "start": 138.94,
+          "end": 139.54,
+          "probability": 0.9855738282203674
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 13494,
+      "start": 139.98,
+      "end": 144.14,
+      "text": " This complexity underscores the thorough planning that NASA teams did",
+      "tokens": [
+        50607,
+        770,
+        13357,
+        41731,
+        262,
+        9321,
+        5410,
+        326,
+        8884,
+        3466,
+        750,
+        50831
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.057357178458684606,
+      "compression_ratio": 1.4844961240310077,
+      "no_speech_prob": 0.0025211903266608715,
+      "words": [
+        {
+          "word": " This",
+          "start": 139.98,
+          "end": 140.06,
+          "probability": 0.9926082491874695
+        },
+        {
+          "word": " complexity",
+          "start": 140.06,
+          "end": 140.68,
+          "probability": 0.999295711517334
+        },
+        {
+          "word": " underscores",
+          "start": 140.68,
+          "end": 141.26,
+          "probability": 0.990097165107727
+        },
+        {
+          "word": " the",
+          "start": 141.26,
+          "end": 141.9,
+          "probability": 0.9985460042953491
+        },
+        {
+          "word": " thorough",
+          "start": 141.9,
+          "end": 142.18,
+          "probability": 0.9947197437286377
+        },
+        {
+          "word": " planning",
+          "start": 142.18,
+          "end": 142.68,
+          "probability": 0.9960148334503174
+        },
+        {
+          "word": " that",
+          "start": 142.68,
+          "end": 143.18,
+          "probability": 0.996616542339325
+        },
+        {
+          "word": " NASA",
+          "start": 143.18,
+          "end": 143.38,
+          "probability": 0.993802011013031
+        },
+        {
+          "word": " teams",
+          "start": 143.38,
+          "end": 143.86,
+          "probability": 0.90469890832901
+        },
+        {
+          "word": " did",
+          "start": 143.86,
+          "end": 144.14,
+          "probability": 0.9988622665405273
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 13494,
+      "start": 144.14,
+      "end": 150.18,
+      "text": " to maximize each spacecraft's potential while balancing the intricate math of orbital mechanics.",
+      "tokens": [
+        50831,
+        284,
+        20487,
+        1123,
+        16807,
+        338,
+        2785,
+        981,
+        22486,
+        262,
+        28746,
+        10688,
+        286,
+        32362,
+        12933,
+        13,
+        51151
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.057357178458684606,
+      "compression_ratio": 1.4844961240310077,
+      "no_speech_prob": 0.0025211903266608715,
+      "words": [
+        {
+          "word": " to",
+          "start": 144.14,
+          "end": 144.52,
+          "probability": 0.9941943287849426
+        },
+        {
+          "word": " maximize",
+          "start": 144.52,
+          "end": 144.94,
+          "probability": 0.8808125853538513
+        },
+        {
+          "word": " each",
+          "start": 144.94,
+          "end": 145.6,
+          "probability": 0.9984317421913147
+        },
+        {
+          "word": " spacecraft's",
+          "start": 145.6,
+          "end": 146.46,
+          "probability": 0.9920101165771484
+        },
+        {
+          "word": " potential",
+          "start": 146.46,
+          "end": 146.72,
+          "probability": 0.9995212554931641
+        },
+        {
+          "word": " while",
+          "start": 146.72,
+          "end": 147.36,
+          "probability": 0.6791985034942627
+        },
+        {
+          "word": " balancing",
+          "start": 147.36,
+          "end": 147.86,
+          "probability": 0.9972225427627563
+        },
+        {
+          "word": " the",
+          "start": 147.86,
+          "end": 148.22,
+          "probability": 0.9989728927612305
+        },
+        {
+          "word": " intricate",
+          "start": 148.22,
+          "end": 148.56,
+          "probability": 0.9972545504570007
+        },
+        {
+          "word": " math",
+          "start": 148.56,
+          "end": 149.0,
+          "probability": 0.959114670753479
+        },
+        {
+          "word": " of",
+          "start": 149.0,
+          "end": 149.42,
+          "probability": 0.9989945292472839
+        },
+        {
+          "word": " orbital",
+          "start": 149.42,
+          "end": 149.74,
+          "probability": 0.9888209104537964
+        },
+        {
+          "word": " mechanics.",
+          "start": 149.74,
+          "end": 150.18,
+          "probability": 0.9992382526397705
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 13494,
+      "start": 150.76,
+      "end": 157.28,
+      "text": " From its initial concept, NASA engineers expected Voyager 2 to function for only four years,",
+      "tokens": [
+        51151,
+        3574,
+        663,
+        4238,
+        3721,
+        11,
+        8884,
+        12037,
+        2938,
+        34124,
+        362,
+        284,
+        2163,
+        329,
+        691,
+        1440,
+        812,
+        11,
+        51491
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.057357178458684606,
+      "compression_ratio": 1.4844961240310077,
+      "no_speech_prob": 0.0025211903266608715,
+      "words": [
+        {
+          "word": " From",
+          "start": 150.76,
+          "end": 150.94,
+          "probability": 0.996605396270752
+        },
+        {
+          "word": " its",
+          "start": 150.94,
+          "end": 151.08,
+          "probability": 0.9864165782928467
+        },
+        {
+          "word": " initial",
+          "start": 151.08,
+          "end": 151.4,
+          "probability": 0.9993593096733093
+        },
+        {
+          "word": " concept,",
+          "start": 151.4,
+          "end": 151.96,
+          "probability": 0.9980277419090271
+        },
+        {
+          "word": " NASA",
+          "start": 151.96,
+          "end": 152.46,
+          "probability": 0.9984425902366638
+        },
+        {
+          "word": " engineers",
+          "start": 152.46,
+          "end": 153.14,
+          "probability": 0.9943327903747559
+        },
+        {
+          "word": " expected",
+          "start": 153.14,
+          "end": 153.66,
+          "probability": 0.9953935146331787
+        },
+        {
+          "word": " Voyager",
+          "start": 153.66,
+          "end": 153.98,
+          "probability": 0.9972039461135864
+        },
+        {
+          "word": " 2",
+          "start": 153.98,
+          "end": 154.52,
+          "probability": 0.9447250962257385
+        },
+        {
+          "word": " to",
+          "start": 154.52,
+          "end": 154.98,
+          "probability": 0.9945834279060364
+        },
+        {
+          "word": " function",
+          "start": 154.98,
+          "end": 155.24,
+          "probability": 0.9978341460227966
+        },
+        {
+          "word": " for",
+          "start": 155.24,
+          "end": 155.94,
+          "probability": 0.9874239563941956
+        },
+        {
+          "word": " only",
+          "start": 155.94,
+          "end": 156.28,
+          "probability": 0.9935733675956726
+        },
+        {
+          "word": " four",
+          "start": 156.28,
+          "end": 156.72,
+          "probability": 0.8634563684463501
+        },
+        {
+          "word": " years,",
+          "start": 156.72,
+          "end": 157.28,
+          "probability": 0.999407172203064
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 13494,
+      "start": 157.28,
+      "end": 161.14,
+      "text": " with the main emphasis on exploring Jupiter and Saturn.",
+      "tokens": [
+        51491,
+        351,
+        262,
+        1388,
+        12476,
+        319,
+        13504,
+        22721,
+        290,
+        23135,
+        13,
+        51691
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.057357178458684606,
+      "compression_ratio": 1.4844961240310077,
+      "no_speech_prob": 0.0025211903266608715,
+      "words": [
+        {
+          "word": " with",
+          "start": 157.28,
+          "end": 157.72,
+          "probability": 0.9973276853561401
+        },
+        {
+          "word": " the",
+          "start": 157.72,
+          "end": 157.86,
+          "probability": 0.998591959476471
+        },
+        {
+          "word": " main",
+          "start": 157.86,
+          "end": 158.06,
+          "probability": 0.9987447261810303
+        },
+        {
+          "word": " emphasis",
+          "start": 158.06,
+          "end": 158.5,
+          "probability": 0.998360812664032
+        },
+        {
+          "word": " on",
+          "start": 158.5,
+          "end": 159.14,
+          "probability": 0.9990401864051819
+        },
+        {
+          "word": " exploring",
+          "start": 159.14,
+          "end": 159.76,
+          "probability": 0.9929103255271912
+        },
+        {
+          "word": " Jupiter",
+          "start": 159.76,
+          "end": 160.24,
+          "probability": 0.9968169331550598
+        },
+        {
+          "word": " and",
+          "start": 160.24,
+          "end": 160.88,
+          "probability": 0.9968816041946411
+        },
+        {
+          "word": " Saturn.",
+          "start": 160.88,
+          "end": 161.14,
+          "probability": 0.999745786190033
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 16114,
+      "start": 161.14,
+      "end": 167.46,
+      "text": " Its design was built around instruments capable of studying magnetic fields, plasma waves,",
+      "tokens": [
+        50383,
+        6363,
+        1486,
+        373,
+        3170,
+        1088,
+        12834,
+        6007,
+        286,
+        11065,
+        14091,
+        7032,
+        11,
+        16074,
+        9813,
+        11,
+        50699
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13905530409379438,
+      "compression_ratio": 1.4438502673796791,
+      "no_speech_prob": 0.48930004239082336,
+      "words": [
+        {
+          "word": " Its",
+          "start": 161.14,
+          "end": 161.74,
+          "probability": 0.18066686391830444
+        },
+        {
+          "word": " design",
+          "start": 161.74,
+          "end": 162.2,
+          "probability": 0.995598316192627
+        },
+        {
+          "word": " was",
+          "start": 162.2,
+          "end": 162.64,
+          "probability": 0.9954308271408081
+        },
+        {
+          "word": " built",
+          "start": 162.64,
+          "end": 162.94,
+          "probability": 0.9981353282928467
+        },
+        {
+          "word": " around",
+          "start": 162.94,
+          "end": 163.28,
+          "probability": 0.995660126209259
+        },
+        {
+          "word": " instruments",
+          "start": 163.28,
+          "end": 163.78,
+          "probability": 0.996405839920044
+        },
+        {
+          "word": " capable",
+          "start": 163.78,
+          "end": 164.34,
+          "probability": 0.9944955706596375
+        },
+        {
+          "word": " of",
+          "start": 164.34,
+          "end": 164.7,
+          "probability": 0.997901439666748
+        },
+        {
+          "word": " studying",
+          "start": 164.7,
+          "end": 165.14,
+          "probability": 0.9969912767410278
+        },
+        {
+          "word": " magnetic",
+          "start": 165.14,
+          "end": 165.6,
+          "probability": 0.9971158504486084
+        },
+        {
+          "word": " fields,",
+          "start": 165.6,
+          "end": 166.28,
+          "probability": 0.9986097812652588
+        },
+        {
+          "word": " plasma",
+          "start": 166.72,
+          "end": 167.02,
+          "probability": 0.9958745837211609
+        },
+        {
+          "word": " waves,",
+          "start": 167.02,
+          "end": 167.46,
+          "probability": 0.9950929880142212
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 16114,
+      "start": 167.86,
+      "end": 173.64,
+      "text": " cosmic rays and more. However, no one could have predicted that this spacecraft's journey",
+      "tokens": [
+        50699,
+        23464,
+        24823,
+        290,
+        517,
+        13,
+        2102,
+        11,
+        645,
+        530,
+        714,
+        423,
+        11001,
+        326,
+        428,
+        16807,
+        338,
+        7002,
+        51003
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13905530409379438,
+      "compression_ratio": 1.4438502673796791,
+      "no_speech_prob": 0.48930004239082336,
+      "words": [
+        {
+          "word": " cosmic",
+          "start": 167.86,
+          "end": 168.26,
+          "probability": 0.9989392161369324
+        },
+        {
+          "word": " rays",
+          "start": 168.26,
+          "end": 168.56,
+          "probability": 0.9986461997032166
+        },
+        {
+          "word": " and",
+          "start": 168.56,
+          "end": 169.22,
+          "probability": 0.48180127143859863
+        },
+        {
+          "word": " more.",
+          "start": 169.22,
+          "end": 169.48,
+          "probability": 0.9984190464019775
+        },
+        {
+          "word": " However,",
+          "start": 170.02,
+          "end": 170.16,
+          "probability": 0.9955005049705505
+        },
+        {
+          "word": " no",
+          "start": 170.56,
+          "end": 170.76,
+          "probability": 0.9964721202850342
+        },
+        {
+          "word": " one",
+          "start": 170.76,
+          "end": 171.0,
+          "probability": 0.9573813676834106
+        },
+        {
+          "word": " could",
+          "start": 171.0,
+          "end": 171.22,
+          "probability": 0.9978172779083252
+        },
+        {
+          "word": " have",
+          "start": 171.22,
+          "end": 171.36,
+          "probability": 0.9882110357284546
+        },
+        {
+          "word": " predicted",
+          "start": 171.36,
+          "end": 171.7,
+          "probability": 0.9994860887527466
+        },
+        {
+          "word": " that",
+          "start": 171.7,
+          "end": 172.3,
+          "probability": 0.9927696585655212
+        },
+        {
+          "word": " this",
+          "start": 172.3,
+          "end": 172.48,
+          "probability": 0.993786096572876
+        },
+        {
+          "word": " spacecraft's",
+          "start": 172.48,
+          "end": 173.3,
+          "probability": 0.9760741293430328
+        },
+        {
+          "word": " journey",
+          "start": 173.3,
+          "end": 173.64,
+          "probability": 0.9975031018257141
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 16114,
+      "start": 173.64,
+      "end": 179.62,
+      "text": " would keep fascinating people all over the world more than four decades after its launch.",
+      "tokens": [
+        51003,
+        561,
+        1394,
+        13899,
+        661,
+        477,
+        625,
+        262,
+        995,
+        517,
+        621,
+        1440,
+        4647,
+        706,
+        663,
+        4219,
+        13,
+        51639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13905530409379438,
+      "compression_ratio": 1.4438502673796791,
+      "no_speech_prob": 0.48930004239082336,
+      "words": [
+        {
+          "word": " would",
+          "start": 173.64,
+          "end": 174.12,
+          "probability": 0.9932651519775391
+        },
+        {
+          "word": " keep",
+          "start": 174.12,
+          "end": 174.34,
+          "probability": 0.9976811408996582
+        },
+        {
+          "word": " fascinating",
+          "start": 174.34,
+          "end": 174.86,
+          "probability": 0.9911940693855286
+        },
+        {
+          "word": " people",
+          "start": 174.86,
+          "end": 175.4,
+          "probability": 0.9988730549812317
+        },
+        {
+          "word": " all",
+          "start": 175.4,
+          "end": 175.98,
+          "probability": 0.9934707880020142
+        },
+        {
+          "word": " over",
+          "start": 175.98,
+          "end": 176.24,
+          "probability": 0.9993684887886047
+        },
+        {
+          "word": " the",
+          "start": 176.24,
+          "end": 176.4,
+          "probability": 0.9986864924430847
+        },
+        {
+          "word": " world",
+          "start": 176.4,
+          "end": 176.74,
+          "probability": 0.9987177848815918
+        },
+        {
+          "word": " more",
+          "start": 176.74,
+          "end": 177.22,
+          "probability": 0.7973458170890808
+        },
+        {
+          "word": " than",
+          "start": 177.22,
+          "end": 177.42,
+          "probability": 0.9975005984306335
+        },
+        {
+          "word": " four",
+          "start": 177.42,
+          "end": 177.72,
+          "probability": 0.933110773563385
+        },
+        {
+          "word": " decades",
+          "start": 177.72,
+          "end": 178.3,
+          "probability": 0.9992645382881165
+        },
+        {
+          "word": " after",
+          "start": 178.3,
+          "end": 179.04,
+          "probability": 0.9948737025260925
+        },
+        {
+          "word": " its",
+          "start": 179.04,
+          "end": 179.3,
+          "probability": 0.9627324938774109
+        },
+        {
+          "word": " launch.",
+          "start": 179.3,
+          "end": 179.62,
+          "probability": 0.9998236298561096
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
