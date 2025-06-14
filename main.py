@@ -10,6 +10,7 @@ from PySide6.QtGui import QTextCharFormat, QTextCursor, QColor, QTextDocument, Q
 
 # Import the updated UI class
 from ui_timeline_updated import Ui_MainWindow
+from timeline_track_widget import TimelineTrackWidget
 
 # --- Custom Widgets for Drag and Drop ---
 
@@ -128,6 +129,20 @@ class AudioTimelineApp(QMainWindow, Ui_MainWindow):
             self._show_message_box("Error", f"Transcription file not found at {transcription_path}")
             print(f"Error: Transcription file not found at {transcription_path}")
 
+        # --- TIMELINE TRACK WIDGET ---
+        self.timeline_widget = None
+        if self.transcription_data and "segments" in self.transcription_data:
+            self.timeline_widget = TimelineTrackWidget(
+                self.transcription_data["segments"],
+                self.total_duration,
+                self
+            )
+            # Place timeline_widget in the UI grid just under the topWidget
+            self.gridLayout.addWidget(self.timeline_widget, 1, 0, 1, 2)  # full width
+
+            # Connect scrubbing
+            self.timeline_widget.scrubbed.connect(self._scrub_to_time)
+
         # Calculate total duration from the last word's end time
         if self.transcription_data and "segments" in self.transcription_data and self.transcription_data["segments"]:
             last_segment = self.transcription_data["segments"][-1]
@@ -184,6 +199,14 @@ class AudioTimelineApp(QMainWindow, Ui_MainWindow):
 
         self._populate_sentence_timestamp_views()
 
+    def _scrub_to_time(self, t):
+        """Set current time from timeline scrub."""
+        self.current_time = t
+        self.update_time_labels()
+        self.highlight_current_word()
+        self.update_subtitle_view()
+        if self.timeline_widget:
+            self.timeline_widget.set_current_time(self.current_time)
 
     def _show_message_box(self, title, message):
         """Displays a custom message box instead of alert()."""
@@ -327,7 +350,8 @@ class AudioTimelineApp(QMainWindow, Ui_MainWindow):
         self.update_time_labels()
         self.highlight_current_word()
         self.update_subtitle_view()
-
+        if self.timeline_widget:
+            self.timeline_widget.set_current_time(self.current_time)
 
     def toggle_playback(self):
         """Starts or pauses the simulated audio playback."""
