@@ -191,11 +191,16 @@ class AudioTimelineApp(QMainWindow, Ui_MainWindow):
         self.timestampsTextBrowser.setVerticalScrollBarPolicy(Qt.ScrollBarAsNeeded)
 
         # Layout for sentences and timestamps
-        self.sentence_timestamp_hlayout = QHBoxLayout(self.widget_8)
-        self.sentence_timestamp_hlayout.setContentsMargins(0,0,0,0) # Remove margins
-        self.sentence_timestamp_hlayout.addWidget(self.sentencesTextBrowser)
-        self.sentence_timestamp_hlayout.addWidget(self.timestampsTextBrowser)
-        self.widget_8.setLayout(self.sentence_timestamp_hlayout) # Apply the new layout
+        if not self.widget_8.layout():
+            self.sentence_timestamp_hlayout = QHBoxLayout(self.widget_8)
+            self.sentence_timestamp_hlayout.setContentsMargins(0,0,0,0) # Remove margins
+            self.sentence_timestamp_hlayout.addWidget(self.sentencesTextBrowser)
+            self.sentence_timestamp_hlayout.addWidget(self.timestampsTextBrowser)
+            self.widget_8.setLayout(self.sentence_timestamp_hlayout) # Apply the new layout
+        else:
+            # Just add widgets to the existing layout
+            self.widget_8.layout().addWidget(self.sentencesTextBrowser)
+            self.widget_8.layout().addWidget(self.timestampsTextBrowser)
 
         self._populate_sentence_timestamp_views()
 

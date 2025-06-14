@@ -3,7 +3,7 @@ from PySide6.QtGui import QPainter, QColor, QPen, QFont
 from PySide6.QtCore import Qt, QRectF, Signal
 
 class TimelineTrackWidget(QWidget):
-    # Signal to parent: user scrubbed to new time
+    # Signal to notify parent when user scrubs timeline
     scrubbed = Signal(float)
 
     def __init__(self, segments, total_duration, parent=None):
@@ -34,6 +34,10 @@ class TimelineTrackWidget(QWidget):
         w = self.width()
         painter.fillRect(self.rect(), QColor("#444444"))
 
+        if self.total_duration <= 0:
+            painter.end()
+            return
+
         # Draw segments as blocks
         for seg in self.segments:
             x = seg['start'] / self.total_duration * w * self.zoom
@@ -55,15 +59,14 @@ class TimelineTrackWidget(QWidget):
         playhead_x = self.current_time / self.total_duration * w * self.zoom
         painter.setPen(QPen(QColor("#00FFFF"), 2))
         painter.drawLine(playhead_x, 0, playhead_x, h)
+        painter.end()
 
     def mousePressEvent(self, event):
         if event.button() == Qt.LeftButton:
-            # Scrub to clicked position
             t = (event.x() / (self.width() * self.zoom)) * self.total_duration
             self.scrubbed.emit(max(0.0, min(self.total_duration, t)))
 
     def mouseMoveEvent(self, event):
-        # Show tooltip of segment under mouse
         w = self.width()
         for seg in self.segments:
             x = seg['start'] / self.total_duration * w * self.zoom
